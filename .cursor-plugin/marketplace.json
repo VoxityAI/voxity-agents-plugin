@@ -11,7 +11,7 @@
     {
       "name": "voxity",
       "source": "./plugins/voxity",
-      "description": "v0.4.0 — Remote Voxity MCP. Cursor owns OAuth."
+      "description": "v0.5.0 — Remote Voxity MCP. Cursor owns OAuth."
     },
     {
       "name": "voxity-ims",
