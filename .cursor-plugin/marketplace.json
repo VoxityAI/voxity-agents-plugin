@@ -1,0 +1,27 @@
+{
+  "name": "voxity-plugins",
+  "owner": {
+    "name": "Voxity"
+  },
+  "metadata": {
+    "description": "Voxity team plugins",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "voxity",
+      "source": "./plugins/voxity",
+      "description": "v0.4.0 — Remote Voxity MCP. Cursor owns OAuth."
+    },
+    {
+      "name": "voxity-ims",
+      "source": "./plugins/voxity-ims",
+      "description": "v0.1.0 — Remote Voxity IMS MCP. Cursor owns OAuth."
+    },
+    {
+      "name": "file-a-github-task",
+      "source": "./plugins/file-a-github-task",
+      "description": "Write a complete GitHub issue before filing it."
+    }
+  ]
+}

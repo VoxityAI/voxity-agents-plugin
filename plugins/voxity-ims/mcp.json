@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "voxity-ims": {
+      "type": "streamable-http",
+      "url": "https://ims.voxity.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "voxity",
+  "displayName": "Voxity",
+  "version": "0.4.0",
+  "description": "v0.4.0 — Remote Voxity MCP for Cursor. Auth is Cursor-managed MCP OAuth.",
+  "author": {
+    "name": "Voxity"
+  },
+  "license": "MIT",
+  "keywords": ["voxity", "agent-plugins", "mcp"],
+  "category": "productivity"
+}

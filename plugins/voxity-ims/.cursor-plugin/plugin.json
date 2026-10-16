@@ -1,0 +1,12 @@
+{
+  "name": "voxity-ims",
+  "displayName": "Voxity IMS",
+  "version": "0.1.0",
+  "description": "v0.1.0 — Remote Voxity IMS MCP for Cursor. Auth is Cursor-managed MCP OAuth.",
+  "author": {
+    "name": "Voxity"
+  },
+  "license": "MIT",
+  "keywords": ["voxity", "ims", "agent-plugins", "mcp"],
+  "category": "productivity"
+}

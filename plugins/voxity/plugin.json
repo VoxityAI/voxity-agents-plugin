@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "voxity",
+  "version": "0.4.0",
+  "description": "v0.4.0 — Remote Voxity MCP for Cursor. Auth is Cursor-managed MCP OAuth.",
+  "author": {
+    "name": "Voxity",
+    "url": "https://github.com/VoxityAI"
+  },
+  "repository": "https://github.com/VoxityAI/agent-plugins",
+  "license": "MIT",
+  "keywords": ["voxity", "agent-plugins", "mcp"]
+}
