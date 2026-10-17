@@ -1,1 +1,4 @@
 .cursor/
+.generated/
+generated/
+__pycache__/
